@@ -1,0 +1,10 @@
+2/17/2022 8:27:47 PM	This log contains information about the import schema operation into project 'Database1' on computer 'AADYA-PC' by user 'AADYA'.
+2/17/2022 8:27:47 PM	Deserializing model
+2/17/2022 8:27:50 PM	Resolving model
+2/17/2022 8:27:51 PM	Visiting imported model for types
+2/17/2022 8:27:56 PM	Scanning project for duplicate elements
+2/17/2022 8:27:56 PM	Finished duplicate element processing
+2/17/2022 8:28:02 PM	Processing extra files
+2/17/2022 8:28:03 PM	Finished importing Data-tier Application file.
+2/17/2022 8:28:03 PM	A summary of the import was saved to the following location: C:\GITDemo\Clone\Database1\Import Schema Logs\Database1_20220217025747.log
+2/17/2022 8:28:03 PM	Click Finish to continue...
